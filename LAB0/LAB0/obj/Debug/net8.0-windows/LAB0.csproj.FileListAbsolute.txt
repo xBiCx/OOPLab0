@@ -1,0 +1,16 @@
+D:\OOPLab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.exe
+D:\OOPLab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.deps.json
+D:\OOPLab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.runtimeconfig.json
+D:\OOPLab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.dll
+D:\OOPLab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.pdb
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.Form1.resources
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.csproj.GenerateResource.cache
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.AssemblyInfoInputs.cache
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.AssemblyInfo.cs
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.csproj.CoreCompileInputs.cache
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.dll
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\refint\LAB0.dll
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.pdb
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.genruntimeconfig.cache
+D:\OOPLab0\LAB0\LAB0\obj\Debug\net8.0-windows\ref\LAB0.dll
